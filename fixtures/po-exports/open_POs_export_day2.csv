@@ -1,0 +1,7 @@
+﻿PO_Number;PO_Date;Supplier;Supplier_No;Item;Material_No;Description;Qty_Ordered;Unit;Price_EUR;Requested_Delivery;Confirmed_Delivery;Status
+4500112873;06.07.2026;MetallTech Präzision GmbH;100234;10;MT-7734-A;Ventilsitzring Ø28,5;2400;ST;3.85;24.07.2026;24.07.2026;confirmed
+4500112873;06.07.2026;MetallTech Präzision GmbH;100234;20;MT-7735-A;Ventilführung 8H7;2400;ST;2.95;24.07.2026;24.07.2026;confirmed
+4500112901;08.07.2026;Gusswerk Hartmann GmbH & Co. KG;100501;10;WS-4411-C;Zylinderkopf-Rohling AlSi7Mg;800;ST;45.80;29.07.2026;;open
+4500112944;07.07.2026;Federn Vogel e.K.;100617;10;V-220;Ventilfeder V-220;5000;ST;0.42;31.07.2026;;open
+4500112956;09.07.2026;MetallTech Präzision GmbH;100234;10;MT-8102-B;Dichtring Kupfer 12x18;10000;ST;0.11;07.08.2026;;open
+4500112970;07.07.2026;Gusswerk Hartmann GmbH & Co. KG;100501;10;WS-2200-A;Lagerdeckel AlSi9Cu3;1200;ST;12.40;12.08.2026;;open

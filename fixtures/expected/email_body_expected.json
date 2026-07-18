@@ -1,0 +1,6 @@
+{
+  "fixture": "emails/email_body_only_confirmation.txt",
+  "po_number": "4500112956",
+  "expected_bucket": "matched",
+  "notes": "No PDF attachment - AB is in email body. Qty 10000, price 0.11 match PO. Delivery 'KW 32' must be converted to a date in that calendar week of 2026 (week of Aug 3-9); requested delivery 07.08.2026 falls in KW 32, so date should be treated as met. Resolves the overdue chaser for this PO."
+}

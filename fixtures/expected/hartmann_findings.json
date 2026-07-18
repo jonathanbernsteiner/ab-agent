@@ -1,0 +1,26 @@
+{
+  "fixture": "abs/AB_GusswerkHartmann_4500112901.pdf",
+  "po_number": "4500112901",
+  "expected_bucket": "deviation",
+  "expected_findings": [
+    {
+      "field": "date",
+      "po_value": "2026-07-29",
+      "ab_value": "2026-08-05",
+      "note": "Confirmed date 7 days later than requested (first partial)"
+    },
+    {
+      "field": "partial_split",
+      "po_value": "800",
+      "ab_value": "500 (2026-08-05) + 300 (2026-08-19)",
+      "note": "Quantity split into two partial deliveries; total matches ordered qty"
+    },
+    {
+      "field": "price",
+      "po_value": "45.80",
+      "ab_value": "47.20",
+      "note": "Price increase ~3.1% stated in PROSE below the table (Metallzuschlag), not in the table itself"
+    }
+  ],
+  "notes": "All three findings must be detected. The price change appears only in running text. Missing any finding = extraction failure."
+}
